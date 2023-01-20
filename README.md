@@ -1,2 +1,3 @@
 # module6_homework
-module6 homework
+
+Практика module 6 Функции в JS homework
